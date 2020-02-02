@@ -7,3 +7,5 @@ else:
     print("Tudo vai ficar melhor")
 print("digite um numero")
 num1 = int(input())
+print("digite mais um numero")
+num2 = int(input())
