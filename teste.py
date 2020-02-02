@@ -5,3 +5,4 @@ if resp == 'bem':
     print("q bom")
 else:
     print("Tudo vai ficar melhor")
+print("digite um numero")
