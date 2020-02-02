@@ -1,4 +1,5 @@
 print("oi")
 print("como vai voce? ")
-resp = int(input())
-if resp =='bem':
+resp = str(input())
+if resp == 'bem':
+    print("q bom")
