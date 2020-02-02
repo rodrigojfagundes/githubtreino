@@ -6,3 +6,4 @@ if resp == 'bem':
 else:
     print("Tudo vai ficar melhor")
 print("digite um numero")
+num1 = int(input())
